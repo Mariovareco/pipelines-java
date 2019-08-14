@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mcordero0550/Training-demo/_apis/build/status/Training-demo-Maven-CI?branchName=master)](https://dev.azure.com/mcordero0550/Training-demo/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
